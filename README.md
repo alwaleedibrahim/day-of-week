@@ -1,5 +1,3 @@
-Here is a possible readme.md file for your code:
-
 # Day Of The Week Finder
 This program determines what day of the week it is for a given date in the Gregorian calendar.
 
